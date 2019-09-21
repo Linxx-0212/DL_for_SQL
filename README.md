@@ -11,7 +11,7 @@ Detection  SQL injection  with Deep Learning
 > nltk
 >
 
-* 说明
+* instruction
 
 > 1. in ./data is the normal samples and injection samples used for training and testing
 > 2. source is in ./src
